@@ -1,4 +1,4 @@
-# ds4300_hw1
+# ds4300 hw1
 
 See PDF for more info
 
