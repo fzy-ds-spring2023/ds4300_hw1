@@ -1,5 +1,5 @@
 # ds4300 hw1
 
-See PDF for more info
+See PDF for report
 
 Felix Yang + Ayushi Shirke
